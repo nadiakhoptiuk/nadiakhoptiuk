@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Nadiia
 
-- 👯 I’m looking to collaborate on <strong>some interesting projects/startups</strong>
 - 👯 I’m looking for help with <strong>finding a couple hours that will be enough for me to sleep well</strong>
 - 📫 How to reach me: <strong>holineinadia@gmail.com</strong>
 - ⚡ Fun fact: <strong>I forget about everything while I'm writing code</strong>
