@@ -2,7 +2,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadiakhoptiuk&theme=nord_bright)
 
-# My [Portfolio](https://portfolio-nadiia-khoptiuk.vercel.app/)
+## My [Portfolio](https://portfolio-nadiia-khoptiuk.vercel.app/)
 
 # My Skills
 
